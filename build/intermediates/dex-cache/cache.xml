@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="05c6d35e98885489fa842bd7da1309ede048102e">
+        <dex dex="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_70252b3ec6d705021c398d975387889e3b34ee03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhangmenghao/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.52/88a941faf9819d371e3174b5ed56a3f3f7d73269/bcprov-jdk15on-1.52.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="88a941faf9819d371e3174b5ed56a3f3f7d73269">
+        <dex dex="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/bcprov-jdk15on-1.52_849cce23d9e4d8b852e154049bd25bec98f9a772/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="61a396d8359bf0069b1be52ea4105e65d6365ae8">
+        <dex dex="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3b0d99052f10d552a020ffb2e609b47712d1d318/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/zhangmenghao/.gradle/caches/modules-2/files-2.1/com.googlecode.json-simple/json-simple/1.1.1/c9ad4a0850ab676c5c64461a05ca524cdfff59f1/json-simple-1.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c9ad4a0850ab676c5c64461a05ca524cdfff59f1">
+        <dex dex="/home/zhangmenghao/Desktop/androidlight/app/build/intermediates/transforms/dex/debug/folders/1000/10/json-simple-1.1.1_70d917b18bf8e9d7095b3fce2fb330d37e2112a3/classes.dex" />
+    </item>
+
+</items>
